@@ -1,0 +1,12 @@
+{
+    "UISelectionList": {
+        "selected_item_text": {
+            "font": "default_font",
+            "colour": "#FFFFFF"
+        },
+        "selected_item_box": {
+            "background_colour": "#0066FF"
+        }
+    }
+}
+
