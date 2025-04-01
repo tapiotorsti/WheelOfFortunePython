@@ -343,7 +343,6 @@ while running:
     screen.fill(WHITE)
 
     # Zoomed-in wheel rendering
-    # Zoomed-in wheel rendering
     if zoomed_in:
         # Draw grey overlay
         overlay = pygame.Surface((SCREEN_WIDTH, SCREEN_HEIGHT), pygame.SRCALPHA)
